@@ -1,5 +1,5 @@
 # python-arrayCollections_b-cw
-
+See cw.py for comments. 2/4 correct. Score : 2
 ### Problem 1:
 Create a function with the variable below. After you create the variable do the instructions below that.
 ```
